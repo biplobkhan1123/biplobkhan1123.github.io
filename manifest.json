@@ -1,0 +1,17 @@
+{
+  "name": "Quiz Master – Bangla & English Quiz Game",
+  "short_name": "Quiz Master",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d22",
+  "theme_color": "#0b1028",
+  "description": "A free bilingual quiz game with 150+ questions, daily challenges, categories and achievements.",
+  "icons": [
+    {
+      "src": "avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
