@@ -1,0 +1,24 @@
+QUIZ MASTER - SEO + SEARCH CONSOLE FIXED BUILD
+
+Upload ALL files in this folder to the ROOT of the biplobkhan1123.github.io repository.
+Do NOT upload the ZIP itself.
+
+Important root files:
+- index.html
+- robots.txt
+- sitemap.xml
+- about.html
+- privacy-policy.html
+- terms.html
+- contact.html
+- avatar.png
+- manifest.json
+- sw.js
+
+After committing:
+1. Open https://biplobkhan1123.github.io/robots.txt
+2. Open https://biplobkhan1123.github.io/sitemap.xml
+3. If both open successfully, go to Google Search Console > Sitemaps.
+4. Submit: sitemap.xml
+
+Do not delete the existing AdSense or Google Search Console verification code from index.html.
